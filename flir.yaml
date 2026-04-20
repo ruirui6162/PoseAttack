@@ -1,0 +1,7 @@
+# flir.yaml
+train: /mnt/d/Dataset/FLIR_ADAS_v2_Person_YOLO/images/train
+val: /mnt/d/Dataset/FLIR_ADAS_v2_Person_YOLO/images/val
+
+# 类别信息
+nc: 0
+names: ['person']
